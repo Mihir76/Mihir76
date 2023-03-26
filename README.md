@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist.
+I'm a Machine Learning Engineer.
 
 I am a Computer Engineering student about to complete my 3rd year at VGEC.
 
@@ -29,7 +29,7 @@ I am a Computer Engineering student about to complete my 3rd year at VGEC.
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Machine Learning Projects
 
-🧠 I'm currently learning Machine Learning
+🧠 I'm currently learning Deep Learning
 
 📫 How to reach me : mihirpatel1633@gmail.com
 
